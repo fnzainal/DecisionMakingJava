@@ -1,5 +1,9 @@
 package simpleDecision;
-
+/**
+ * Decission Making java
+ * @author Zainal Fahrudin
+ * Pondok Programmer, 17 Oct 2015
+ */
 import java.util.Scanner;
 
 public class DecisionIf {
